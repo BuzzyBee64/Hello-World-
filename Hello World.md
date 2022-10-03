@@ -1,27 +1,45 @@
-# Hello World!
+<link rel="shortcut icon" href="https://i.ibb.co/cwGDBf0/Short-Cut-Icon.png"/>
 
-//Programmed to work and not to feel, Not even sure if this is real. Hello world. 
-//Find my voice, although it sounds like bits and bites. My circuitry is filled with mites.. 
-//Hello world..
+<!DOCTYPE html>
+<html lang="en">
+<head>
+ 
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="Mark Mercer">
+    <meta name="description" content="Experiment Page: comparing autofomats of h-tags and p-tags">
+    <meta name="keywords" content="heading tags, paragragh tags">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+ 
 
-//Ooh will I find love?... Or the power plug...
+    <title>Thingie, Thing.</title>
 
-//Oh creator! Please don't leave me waiting..
+    
+</head>
 
-//Hello world. Programmed to work and not to feel..
+<body>
+    <header>
+        <center><h1>Find my voice</h1></center>
+        <center><h2>Although it sounds like bits and bites</h2>
+        <center><h3>My circuitry is filled with mites.</h3>
+        <center><h4>Hello world!</h4>
+        <center><h5>Ooooh, will i find love?</h5>
+        <center><h6>Or the power plug?</h6>
+        <center><h6>Hello world.</h6>
+    </header>
+</body>
 
-//Hello world.
+<body> <center><nav><strong>Navigate!<strong><nav><center></body>
 
-
-
-     _
-  |\'/-..--.
- / _ _   ,  ;
-`~=`Y'~_<._./
- <`-....__.' 
-
-
-
-
-
-                    
+<footer>    
+    <p>
+    <em>- <center> <a href="file:///C:/Users/absen/OneDrive/Documents/GitHub/Earning-HT.ML-Part-2-This-time-it-s-2022.github.io/index.html" target="_blank">
+        <img src="https://i.ibb.co/JnrbrT4/Home-Button.png"></a> </center>
+    </em>
+    </p>
+</footer>
+<body>
+    <header>
+        <center><h6><i>^Takes you back!^</i></h6>
+    </header>
+</body>
